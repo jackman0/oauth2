@@ -8,7 +8,7 @@ package endpoints
 import (
 	"strings"
 
-	"golang.org/x/oauth2"
+	"github.com/jackman0/oauth2"
 )
 
 // Amazon is the endpoint for Amazon.
